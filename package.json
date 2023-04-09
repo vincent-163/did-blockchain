@@ -1,0 +1,11 @@
+{
+  "name": "did-blockchain",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1",
+    "sqlite3": "^5.1.6",
+    "winston": "^3.8.2"
+  }
+}
